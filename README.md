@@ -7,3 +7,5 @@ Hey, I’m Joshua. I’m 23 and spend most of my time building Discord bots and 
 
 - Mob
    - My own personal discord bot with a bunch of useful commands which you can invite [here](https://bot.joshua.moe).
+
+More coming soon!
