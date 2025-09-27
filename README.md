@@ -1,5 +1,1 @@
-![](https://i.ibb.co/BV5qH3w2/github-header-image.png)
-
-Hello I'm Mobetsu or Joshua, I'm a fulltime idiot that's been programming off and on for 4 years. I love self-hosting, watching anime and playing Minecraft. Check out my [website](https://joshua.moe) to learn more about me.
-
-![](https://komarev.com/ghpvc/?username=t84)
+Hey, I’m Joshua. I’m 23 and spend most of my time building Discord bots and websites. I’m into writing, anime, and basically anything space related. Check out my website [here](https://joshua.moe).
